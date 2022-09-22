@@ -1,0 +1,80 @@
+body{
+    background-image: url(images/bg-2.png);
+    background-repeat: no-repeat;
+    background-position-y: 450px ;
+    background-size: 170px;
+}
+.buy-now-button{
+    background-color: black;
+    color: aliceblue;
+    padding: 6px 30px;
+    border-radius: 10px;
+}
+.banner{
+    padding: 10px 80px;
+    background-image: url(images/bg-1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 80px;
+    margin-bottom: 80px
+}    
+.card-body{
+    text-align: center;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+.card img{
+    width: 280px;
+}
+.card-deck{
+    margin-top: 30px;
+}
+.card{
+    box-shadow: 3px 3px 6px gainsboro;
+    border-radius: 10px;
+}
+.see-all{
+    color: orange;
+    border: none;
+    background-color: white;
+}
+.laptop{
+    margin-top: 50px;
+}
+.pale img{
+    width: 500px;
+}
+.shoes{
+    background-color: whitesmoke;
+    width: 200px;
+    padding: 20px 10px;
+    border-radius: 10px;
+}
+.beauty{
+    background-color: whitesmoke;
+    width: 200px;
+    padding: 20px 10px;
+    margin-top: 30px;
+    border-radius: 10px;
+}
+.bag{
+    background-color: whitesmoke;
+    width: 200px;
+    height: 200px;
+    padding: 20px 10px;
+    border-radius: 10px;
+}
+.cat-h5{
+    margin-top: 15px;
+}
+.categories{
+    margin-top: 120px;
+    height: 700px;
+    text-align: center;
+}
+.cat-row{
+    margin-top: 50px;
+    padding: 20px 80px;
+}
